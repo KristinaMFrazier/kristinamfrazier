@@ -7,7 +7,7 @@ I am formally trained in Geographic Information Systems at the graduate degree l
 
 GitHub is where I showcase all of the coding and data projects I am most proud of - keep reading for a list of projects that best demonstrate my skills.
 
-### Learn about what I can do
+### Here's what I can do
 
 **SQL Databases and Query Magic**
   - I am highly proficient in PostgreSQL and MS Access Database querying, as well as table and schema maintenace and management. I completed the following reports by querying data in PostgreSQL in completion of Udacity's Programming for Data Science and Data Analyst Nanodegrees:
