@@ -14,20 +14,21 @@ GitHub is where I showcase all of the coding and data projects I am most proud o
     - Investigating the PostgreSQL Sakila DVD Rental Database (repo coming soon). For this project, I worked with a local installation of PostgreSQL using 
 pgAdmin. 
     - Comparing global and local annual temperatures (repo coming soon).
+
 **Python Data Analytics Mastery**
   - [Python Programming and APIs:](https://github.com/KristinaMFrazier/etsy_crepepaperflowers) Here is a series of Python code I authored to extract and clean Etsy marketplace listings.
   - Data Wrangling with Python: I wrangled tweet data from the We Rate Dogs twitter account. (repo coming soon)
   - Data Visualization with Python: I this project, I use Pandas, MatplotLib, and Seaborn plots to learn more about pricing trends among a subset of Etsy marketplace listings. (repo coming soon).
+
 **Data Research and Reporting**
   - I have two years of professional experience working as a data analyst for Arlington County Government's Department of Community Planning, Housing & Development
   - [Here](https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/07/Residential-and-Hotel-GFA-Assumptions-2018-Update_09122018.pdf) is a report explaining my development of residential gross floor area converstion factors that can be used by planners to forecast development.
   - And [here](https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/02/Annual-Development-Highlights-2018.pdf) is an example of the type of data reporting I conducted on a quarterly and annual basis to track development activity in the county. 
+ 
  **Geographic Information Systems**
   - Here is a web application and excel workbook I completed on my own to compare the demographics of counties within the Greater Pittsburgh Area (repo coming soon). 
   
 
 ### Want to know more?
 
-Say hi on [linkedin](https://www.linkedin.com/in/kristinamfrazier/).
-
-Or send me an [email](kristinamfrazier@gmail.com).
+Say hi on [linkedin](https://www.linkedin.com/in/kristinamfrazier/)!
