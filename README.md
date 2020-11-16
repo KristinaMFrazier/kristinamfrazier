@@ -11,9 +11,9 @@ GitHub is where I showcase all of the coding and data projects I am most proud o
 
 **SQL Databases and Query Magic**
   - I am highly proficient in PostgreSQL and MS Access Database querying, as well as table and schema maintenace and management. I completed the following reports by querying data in PostgreSQL in completion of Udacity's Programming for Data Science and Data Analyst Nanodegrees:
-    - Investigating the PostgreSQL Sakila DVD Rental Database (repo coming soon). For this project, I worked with a local installation of PostgreSQL using 
+    - [Investigating the PostgreSQL Sakila DVD Rental Database.](https://github.com/KristinaMFrazier/udacitysakila) For this project, I worked with a local installation of PostgreSQL using 
 pgAdmin. 
-    - Comparing global and local annual temperatures (repo coming soon).
+    - [Comparing global and local annual temperatures](https://github.com/KristinaMFrazier/udacityweathertrends).
 
 **Python Data Analytics Mastery**
   - [Python Programming and APIs:](https://github.com/KristinaMFrazier/etsy_crepepaperflowers) Here is a series of Python code I authored to extract and clean Etsy marketplace listings.
