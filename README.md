@@ -18,7 +18,7 @@ pgAdmin.
 **Python Data Analytics Mastery**
   - [Python Programming and APIs:](https://github.com/KristinaMFrazier/etsy_crepepaperflowers) Here is a series of Python code I authored to extract and clean Etsy marketplace listings.
   - [Data Wrangling with Python:](https://github.com/KristinaMFrazier/udacitydatawrangle) I wrangled tweet data from the We Rate Dogs twitter account.
-  - [Data Visualization with Python:]() I this project, I use Pandas, MatplotLib, and Seaborn plots to learn more about pricing trends among a subset of Etsy marketplace listings. (repo coming soon).
+  - [Data Visualization with Python:](https://github.com/KristinaMFrazier/udacitydataviz) I this project, I use Pandas, MatplotLib, and Seaborn plots to learn more about pricing trends among a subset of Etsy marketplace listings. (repo coming soon).
 
 **Data Research and Reporting**
   - I have two years of professional experience working as a data analyst for Arlington County Government's Department of Community Planning, Housing & Development
