@@ -1,7 +1,7 @@
 ## Hi, I'm Kristina 👋
 
 ### About Me:
-I currently live in Pittsburgh, PA and I work for Uber's Advanced Technology Group - I am enjoying helping to make Autonomous Vehicles come to life! I started my career as an Urban Planner, but I'm following my passion for data and tech and pursuing a new career in data analytics.
+I currently live in Pittsburgh, PA and I work for Uber's Advanced Technology Group - I am enjoying helping make Autonomous Vehicles a reality! I started my career as an Urban Planner, but I'm following my passion for data and tech and pursuing a new career in data analytics.
 
 I am formally trained in Geographic Information Systems at the graduate degree level, but I've in the past three yearas I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
 
@@ -26,7 +26,7 @@ pgAdmin.
     - And [here](https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/02/Annual-Development-Highlights-2018.pdf) is an example of the type of data reporting I conducted on a quarterly and annual basis to track development activity in the county. 
  
  **Geographic Information Systems**
-  - Here is a web application and excel workbook I completed on my own to compare the demographics of counties within the Greater Pittsburgh Area. 
+  - I am currently refining two GIS projects - one to build a simple web application with ArcGIS online and another open source map visualization showcasing my skills with PostGIS and map visualization in Jupyter notebooks. I will post a link to these projects when they are ready. Check back soon for updates!
   
 
 ### Want to know more?
