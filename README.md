@@ -3,7 +3,7 @@
 ### About Me:
 I currently live in Pittsburgh, PA and I work for Uber's Advanced Technology Group - I am enjoying helping make Autonomous Vehicles a reality! I started my career as an Urban Planner, but I'm following my passion for data and tech and pursuing a new career in data analytics.
 
-I am formally trained in Geographic Information Systems at the graduate degree level, but I've in the past three yearas I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
+I am formally trained in Geographic Information Systems at the graduate degree level, but in the past three years I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
 
 GitHub is where I showcase all of the coding and data projects I am most proud of and am currently working on - keep reading for a list of projects that best demonstrate my skills.
 
