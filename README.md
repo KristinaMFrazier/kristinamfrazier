@@ -28,7 +28,11 @@ pgAdmin.
  **Geographic Information Systems**
   - I am currently refining two GIS projects - one to build a simple web application with ArcGIS online and another open source map visualization showcasing my skills with PostGIS and map visualization in Jupyter notebooks. I will post a link to these projects when they are ready. Check back soon for updates!
   
+### Coming soon:
+I love to learn new things! I most recently completed Udacity's Data Analyst Nanodegree, and I am currently refining my skills with Tableau Desktop, a project to visualize spatial data with open source GIS, and building an interactive web application through ArcGIS Online to learn more about Pittsburgh's diverse neighborhoods. After this, here's what I'm planning to pursue next to create cool new projects to upload to GitHub:
+  - Cloudera's [Modern Big Data Analysis with SQL Specialization](https://www.coursera.org/specializations/cloudera-big-data-analysis-sql) - This course has been highly recommended by those in my network!
+  - Udacity's [Data Scientist](https://www.udacity.com/course/data-scientist-nanodegree--nd025?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=2045338233_c&utm_term=71049807503&utm_keyword=udacity%20data%20science_e&gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaWVFotewV9_A3KcUwhwKas60lTJMmF9hHcla7UohZ4aZjXyz6KBwjoaAiEVEALw_wcB) Nanodegree
 
 ### Want to know more?
 
-Say hi on [linkedin](https://www.linkedin.com/in/kristinamfrazier/)!
+Check out my [linkedin profile](https://www.linkedin.com/in/kristinamfrazier/)!
