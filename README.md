@@ -5,7 +5,7 @@ I currently live in Pittsburgh, PA and I work for Uber's Advanced Technology Gro
 
 I am formally trained in Geographic Information Systems at the graduate degree level, but in the past three years I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
 
-GitHub is where I showcase all of the coding and data projects I am most proud of and am currently working on - keep reading for a list of projects that best demonstrate my skills.
+I am currently using GitHub to showcase all of the coding and data projects I am most proud of and am currently working on - I soon hope to use this platform for more active collaboration. For now, keep reading for a list of projects that best demonstrate my skills!
 
 ### Here's what I can do:
 
