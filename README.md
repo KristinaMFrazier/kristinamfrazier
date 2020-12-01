@@ -7,7 +7,7 @@ I am formally trained in Geographic Information Systems at the graduate degree l
 
 I am currently using GitHub to showcase all of the coding and data projects I am most proud of and am currently working on.
 
-### Repo Walthrough:
+### Repo Walkthrough:
 
 - [Etsy Crepe Paper Flowers](https://github.com/KristinaMFrazier/etsy_crepepaperflowers): I am actively working on this project to extract, clean, and analyze listing data for a specific type of product on Etsy: artificial crepe paper flowers. For this project, I use **Python*** scripts and **Jupyter notebooks** to extract listing data from the Etsy API and clean and prepare the data for analysis. This repo also stores **SQL** queries I use to establish **PostgreSQL** tables and for long-term storage of the dataset.
 
