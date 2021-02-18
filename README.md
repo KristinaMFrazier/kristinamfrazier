@@ -1,11 +1,9 @@
 ## Hi, I'm Kristina 👋
 
 ### About Me:
-I currently live in Pittsburgh, PA and I work for Uber's Advanced Technology Group - I am enjoying helping make Autonomous Vehicles a reality! I started my career as an Urban Planner, but I'm following my passion for data and tech and pursuing a new career in data analytics.
+I currently live in Pittsburgh, PA and I work for The Heinz Endowments (THE) - Currently, I help THE make data-driven grantmaking decisions to more efficiently serve the interests of the Pittsburgh non-profit and public-sector community! But, I use my github here to play and to showcase my personal portfolio of analytics projects.
 
 I am formally trained in Geographic Information Systems at the graduate degree level, but in the past three years I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
-
-I am currently using GitHub to showcase all of the coding and data projects I am most proud of and am currently working on.
 
 ### Repo Walkthrough:
 
@@ -21,7 +19,7 @@ I am currently using GitHub to showcase all of the coding and data projects I am
 
 
 ### Data Research and Reporting:
-  - Some of my professional research and analysis experience is not represented by a repo here, but provides real-world examples of my data reporting and analysis work. I have two years of professional experience working as a data analyst for Arlington County Government's Department of Community Planning, Housing & Development. The following reports made use of my skills in **SQL** querying and **data visualization**.
+  - Some of my professional research and analysis experience is not represented by a repo here, but provides real-world examples of my data reporting and analysis work. Before joining The Heinz Endowements, I worked for two years as a data analyst for Arlington County Government's Department of Community Planning, Housing & Development. The following reports made use of my skills in **SQL** querying and **data visualization**.
     - [Here](https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/07/Residential-and-Hotel-GFA-Assumptions-2018-Update_09122018.pdf) is a report explaining my development of residential gross floor area conversion factors that can be used by planners to forecast development.
     - And [here](https://arlingtonva.s3.amazonaws.com/wp-content/uploads/sites/31/2019/02/Annual-Development-Highlights-2018.pdf) is an example of the type of data reporting I conducted on a quarterly and annual basis to track development activity in the county. 
 
