@@ -1,10 +1,5 @@
 ## Hi, I'm Kristina 👋
 
-### About Me:
-I currently live in Pittsburgh, PA and I work for The Heinz Endowments (THE) - Currently, I help THE make data-driven grantmaking decisions to more efficiently serve the interests of the Pittsburgh non-profit and public-sector community! But, I use my github here to play and to showcase my personal portfolio of analytics projects.
-
-I am formally trained in Geographic Information Systems at the graduate degree level, but in the past three years I've completed several online bootcamps (through Udacity and Coursera) and in-person workshops (with Metis and General Assembly) to hone my skills with Python, SQL, and practical statistics.
-
 ### Repo Walkthrough:
 
 - [Etsy Crepe Paper Flowers](https://github.com/KristinaMFrazier/etsy_crepepaperflowers): I am actively working on this project to extract, clean, and analyze listing data for a specific type of product on Etsy: artificial crepe paper flowers. For this project, I use **Python*** scripts and **Jupyter notebooks** to extract listing data from the Etsy API and clean and prepare the data for analysis. This repo also stores **SQL** queries I use to establish **PostgreSQL** tables and for long-term storage of the dataset.
